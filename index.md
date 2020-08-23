@@ -15,20 +15,13 @@ and Insight Centre for Data Analytics, IReland.
 "After rain comes fair weather!"
  
 ## Research topics:
-Biostatistics: 
-bacterial GWAS: estimation and prediction,
-genetic characteristics of phenotype(s): heritability, genetic co-variability,
+* Biostatistics: bacterial GWAS: estimation and prediction, genetic characteristics of phenotype(s): heritability, genetic co-variability,
 drug sensivetivity prediction with multi-omics data,
-Statistical machine learning: 
-High-dimension sparse regression, 
-Transfer learning and Lifelong learning,
-Matrix completion, low-rank matrix estimation,
-Bayesian inference and PAC-Bayesian analysis,
+* Statistical machine learning: High-dimension sparse regression, Transfer learning and Lifelong learning, Matrix completion, low-rank matrix estimation, Bayesian inference and PAC-Bayesian analysis,
 
-Apart from research and academics, I enjoy reading stories, watching beautiful things. :D
+_Apart from research and academics, I enjoy reading stories, watching beautiful things. :D
 Politically, I am neutral and I do not follow any religion, except perhaps science. :)
-
-Look around to know more about my research and interests.
+Look around to know more about my research and interests._
 
 ## Award:
 Young Researcher Award (2016) from the International Society of Non-Parametric Statistics at the 3rd ISNPS comference in Avignon, France.
@@ -36,12 +29,12 @@ Young Researcher Award (2016) from the International Society of Non-Parametric S
 
  
 ## Education:
-PhD in statistics:
+* PhD in statistics:
 CREST-ENSAE-ParisTech/Paris Saclay (Oct 2015 - June 2017)
 University College Dublin, Ireland (Jan 2014 - Sep 2015)
 Thesis: PAC-Bayesian Estimations of Low-Rank Matrices. Supervisor: Prof. Pierre Alquier (ENSAE,Paris)
-Master's degree(M.Sc.) in Mathematics & Informatics, Université Paris 13, France (2013).
-B.Sc in Mathematics, HCM City-University of Pedagogy, Vietnam (2011)
+* Master's degree(M.Sc.) in Mathematics & Informatics, Université Paris 13, France (2013).
+* B.Sc in Mathematics, HCM City-University of Pedagogy, Vietnam (2011)
         
 ## Attended Conferences with/w.out talks:
 * 01-02/11/2019: UiO Workshop in Data Science, Halden, Norway. "Bacterial GWAS using machine learning"
@@ -74,5 +67,6 @@ Talk at the meeting of PhDs and Postdocs in Statistics in Oslo, Norway
 * March,2010 & March-April 2011: Teaching Assistant: at High Schools in HCM city,VietNam.
 * 2007-2012                    Private Maths Tutor for high school students.
 
-## Reviewers: AMS Math reviews, Electronic Journal of Statistics, ICLR 2018-2019-2020; ICML 2019; UAI 2019; NIPS 2019; AAAI 2020.
+## Reviewers: 
+AMS Math reviews, Electronic Journal of Statistics, ICLR 2018-2019-2020; ICML 2019; UAI 2019; NIPS 2019; AAAI 2020.
 
